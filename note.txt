@@ -1,0 +1,3 @@
+create customer, gateway, product shopping folder with index.js, npm init --y, 
+npm i packages
+in this part of the project, microservices are interacting with each other using http methods (naive approach)
